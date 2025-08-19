@@ -22,7 +22,8 @@ The goal was to deliver **business insights** using an **Excel dashboard**.
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshots/dashboard.png)
+![Dashboard Screenshot](CoffeeShop-Sales-Dashboard/screenshots
+/dashboard_overview.png)
 
 ---
 
