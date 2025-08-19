@@ -22,7 +22,7 @@ The goal was to deliver **business insights** using an **Excel dashboard**.
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard_overview.png)
+[Dashboard Screenshot](screenshots/dashboard_overview.png)
 
 ---
 
