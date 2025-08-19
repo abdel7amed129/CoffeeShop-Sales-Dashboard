@@ -27,8 +27,8 @@ The goal was to deliver **business insights** using an **Excel dashboard**.
 ---
 
 ## 📂 Project Files
-- **[Excel Dataset](data/coffee_shop_sales.xlsx)**
-- **[Dashboard Presentation](presentation/CoffeeShop_Project_PPT.pptx)**
+- **[Excel Dataset](data/Coffee%20Shop%20Sales.xlsx)**
+- **[Dashboard Presentation](presentation/Unveiling-Coffee-Shop-Performance%20.pptx)**
 
 ---
 
@@ -38,4 +38,4 @@ This project was developed during my data analytics course and was highly recomm
 ---
 
 ## 🔗 Connect
-Let’s connect on [LinkedIn](https://www.linkedin.com/) 🚀
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/mohamed-abdelhamed-789213335/) 🚀
